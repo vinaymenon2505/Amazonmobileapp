@@ -1,0 +1,19 @@
+checkoutProduct: !!testdata.yaml.Findproduct
+{
+  LoginDetails:
+    {
+      emailid: vinaymenon@gmail.com,
+      password: android1,
+    },
+  searchSku: TV
+}
+
+searchProduct: !!testdata.yaml.Findproduct
+{
+  LoginDetails:
+    {
+      emailid: vinaymenon@gmail.com,
+      password: android1,
+    },
+  searchSku: 65-inch TV
+}
